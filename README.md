@@ -1,4 +1,4 @@
-# vue-crash
+# TaskTracker-Vue
 
 ## Project setup
 ```
